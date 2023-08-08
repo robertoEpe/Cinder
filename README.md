@@ -8,7 +8,7 @@
 
 Please note that Cinder depends on a few submodules. The simplest way to clone it is:<br />
 ```
-git clone --recursive https://github.com/cinder/Cinder.git
+git clone --recursive https://github.com/robertoEpe/Cinder.git
 ```
 
 You might also prefer one of our [pre-packaged downloads](https://libcinder.org/download).
